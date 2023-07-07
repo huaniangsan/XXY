@@ -1,14 +1,12 @@
-# leiju
-
-{"Home": [
-{"key":"网页","title":"网页","pic":"https://agit.ai/hellocupe/test/raw/branch/master/x/13.jpg"},
-{"key":"采集","title":"采集","pic":"https://agit.ai/hellocupe/test/raw/branch/master/x/14.jpg"},
+{“家”：[
+#雷菊
+#雷菊
 //{"key":"APP","title":"APP","pic":"https://agit.ai/hellocupe/test/raw/branch/master/x/15.jpg"},
-{"key":"直播","title":"直播","pic":"https://agit.ai/hellocupe/test/raw/branch/master/x/7.jpg"},
-{"key":"历史","title":"历史","pic":"https://agit.ai/hellocupe/test/raw/branch/master/x/5.jpg"},
-{"key":"收藏","title":"收藏","pic":"https://agit.ai/hellocupe/test/raw/branch/master/x/6.jpg"},
-{"key": "自选网页",
-"title": "轮播",
+{家]：[
+{“key”：“网页”，“title”：“you”，“pic”：“https://agit.AI/hellocupe/test/raw/branch/master/x/13.Jpg”}
+{“key”：“采集”，“title”：“you”，“pic”：“https://agit.AI/hellocupe/test/raw/branch/master/x/14.Jpg”}
+{“key”：“直播”，“title”：“you”，“pic”：“https://agit.AI/hellocupe/test/raw/branch/master/x/7.Jpg”}
+{“key”：“历史”，“title”：“you”，“pic”：“https://agit.AI/hellocupe/test/raw/branch/master/x/5.Jpg”}
 "pic": "https://agit.ai/hellocupe/test/raw/branch/master/x/16.jpg",
 "custom": "eyLnvZHnq5nlkI3lrZciOiAiRFnkuIDotbfnnIsiLAoi6K6/6Zeu6K+35rGCdWEiOiAiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxM18yXzMgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzEzLjAuMyBNb2JpbGUvMTVFMTQ4IFNhZmFyaS82MDQuMSIsCiLnvZHnq5nlnLDlnYAiOiAiaHR0cHM6Ly93d3cuZG91eXUuY29tLyIsCiLmmK/lkKborrDlvZXljoblj7IiOiAiMSIsCiLnm7TmjqXmkq3mlL4iOiAiMSIsCiLmqKrlm77mmL7npLoiOiAiMSIsCiLliJfooajotbflp4vpobUiOiAiMSIsCiLliJfooajliIbnsbsiOiAi5LiA6LW355yLJGdhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjA4LyIsCiLliJfooajlkI7nvIAiOiAiIiwKIuWIl+ihqOS6jOasoeaIquWPliI6ICLnqboiLAoi5YiX6KGo5oiq5Y+W5pWw57uEIjogIlwidHlwZVwiOjEkJFwicnMxNlwiIiwKIuWIl+ihqOWbvueJh+WJjee8gCI6ICLnqboiLAoi5YiX6KGo5Zu+54mHIjogIlwicnMxXCI6XCIkJFwiIiwKIuWIl+ihqOagh+mimCI6ICJcInJuXCI6XCIkJFwiIiwKIuWIl+ihqOWJr+agh+mimCI6ICJcIm5uXCI6XCIkJFwiIiwKIuWIl+ihqOmTvuaOpSI6ICJcInJpZFwiOiQkLFwiIiwKIuWIl+ihqOmTvuaOpeWJjee8gCI6ICJodHRwczovL2VwZy4xMTIxMTQueHl6L2RvdXl1LyIsCiLliJfooajpk77mjqXlkI7nvIAiOiAi56m6In0="},
 {"key": "自选网页",
